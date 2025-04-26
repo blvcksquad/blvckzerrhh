@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
       coverSrc: './images/about.png',
       name: 'Naranga Paal',
       desc: 'blvckzehhh',
-      id: ,
+      id: 0,
     },
   
   ];
