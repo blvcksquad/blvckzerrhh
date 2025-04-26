@@ -9,6 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
       desc: 'blvckzehhh',
       id: 0,
     },
+  
     {
       audioSrc: 
         './tracks/heyyuhh.mp3',
