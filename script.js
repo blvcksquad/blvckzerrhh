@@ -10,9 +10,9 @@ document.addEventListener('DOMContentLoaded', function () {
     },
     {
       audioSrc: 
-        './tracks/heyy.mp3',
+        './tracks/heyyuhh.mp3',
       coverSrc: './images/about.png',
-      name: 'Naranga Paal',
+      name: 'Sajde-official music',
       desc: 'blvckzehhh',
       id: 0,
     },
