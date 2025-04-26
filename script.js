@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
       coverSrc: './images/about.png',
       name: 'Naranga Paal',
       desc: 'blvckzehhh',
-      id: 0,
+      id: 1,
     },
     {
       audioSrc: 
@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function () {
       coverSrc: './images/about.png',
       name: 'Sajde-official music',
       desc: 'blvckzehhh',
-      id: 0,
+      id: 2,
     },
   
   ];
