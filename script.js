@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function () {
         './tracks/tracks/mp3-1.mp3',
       coverSrc: './images/wizKhalifa.jpg',
       name: 'Naranga Paal',
-      desc: 'mp3-1',
+      desc: 'blvckzehhh',
       id: 0,
     },
   
