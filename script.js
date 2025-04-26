@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
   const tracksList = [
     {
-      audioSrc:
+      audioSrc: 1
         './tracks/heyy.mp3',
       coverSrc: './images/about.png',
       name: 'Naranga Paal',
