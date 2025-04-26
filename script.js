@@ -9,14 +9,6 @@ document.addEventListener('DOMContentLoaded', function () {
       desc: 'blvckzehhh',
       id: 0,
     },
-    {
-      audioSrc: 
-        './tracks/heyyuhh.mp3',
-      coverSrc: './images/about.png',
-      name: 'Sajde-official music',
-      desc: 'blvckzehhh',
-      id: 0,
-    },
   
   ];
 
