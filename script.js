@@ -4,47 +4,11 @@ document.addEventListener('DOMContentLoaded', function () {
       audioSrc:
         './tracks/01-Wiz Khalifa - Amber Ice [Prod. By I.D. Labs Productions] [www.SongsLover.com].mp3',
       coverSrc: './images/wizKhalifa.jpg',
-      name: 'Wiz Khalifa',
+      name: 'Naranga Paal',
       desc: 'Wiz Khalifa - Amber Ice',
       id: 0,
     },
-    {
-      audioSrc:
-        './tracks/Martin Garrix & Tiësto - The Only Way Is Up (Official Music Video).mp3',
-      coverSrc: './images/martinG.jpg',
-      name: 'Martin Garrix',
-      desc: 'Ft. Tiesto Only Way Is Up',
-      id: 1,
-    },
-    {
-      audioSrc: './tracks/Space Buddha - Self Therapy.mp3',
-      coverSrc: './images/spaceBuddha.jpg',
-      name: 'Space Buddha',
-      desc: 'Self Therapy',
-      id: 2,
-    },
-    {
-      audioSrc: "./tracks/Drake - God's Plan.mp3",
-      coverSrc: './images/godsplan.jpg',
-      name: 'Drake',
-      desc: "God's plan",
-      id: 3,
-    },
-    {
-      audioSrc: './tracks/Joyner Lucas & Lil Baby - Ramen & OJ.mp3',
-      coverSrc: './images/ramenlucas.png',
-      name: 'Joyner Lucas & Lil Baby',
-      desc: 'Ramen & OJ',
-      id: 4,
-    },
-    {
-      audioSrc:
-        './tracks/Pop Smoke - For The Night (Audio) ft. Lil Baby, DaBaby.mp3',
-      coverSrc: './images/popsmoke.jpg',
-      name: 'Pop Smoke ft. Lil Baby, DaBaby',
-      desc: 'For The Night',
-      id: 5,
-    },
+  
   ];
 
   const currentTrackName = document.querySelector('header h3');
