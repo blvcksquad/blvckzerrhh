@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const tracksList = [
     {
       audioSrc: 
-        './tracks/heyy.mp3',
+        './tracks/heyyuhh.mp3',
       coverSrc: './images/about.png',
       name: 'Naranga Paal',
       desc: 'blvckzehhh',
