@@ -1,3 +1,4 @@
+
 document.addEventListener('DOMContentLoaded', function () {
   const tracksList = [
     {
@@ -6,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
       coverSrc: './images/about.png',
       name: 'Naranga Paal',
       desc: 'blvckzehhh',
-      id: 1,
+      id: 0,
     },
     {
       audioSrc: 
@@ -14,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function () {
       coverSrc: './images/about.png',
       name: 'Sajde-official music',
       desc: 'blvckzehhh',
-      id: 2,
+      id: 0,
     },
   
   ];
