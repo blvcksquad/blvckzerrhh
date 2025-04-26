@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function () {
         './tracks/01-Wiz Khalifa - Amber Ice [Prod. By I.D. Labs Productions] [www.SongsLover.com].mp3',
       coverSrc: './images/wizKhalifa.jpg',
       name: 'Naranga Paal',
-      desc: 'Wiz Khalifa - Amber Ice',
+      desc: 'mp3-1',
       id: 0,
     },
   
