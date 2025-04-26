@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const tracksList = [
     {
       audioSrc: 
-        './tracks/heyyuhh.mp3',
+        './tracks/heyy.mp3',
       coverSrc: './images/about.png',
       name: 'Naranga Paal',
       desc: 'blvckzehhh',
@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
     },
     {
       audioSrc: 
-        './tracks/heyy.mp3',
+        './tracks/heyyuhh.mp3',
       coverSrc: './images/about.png',
       name: 'Sajde-official music',
       desc: 'blvckzehhh',
