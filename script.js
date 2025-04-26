@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
     {
       audioSrc:
         './tracks/heyy.mp3',
-      coverSrc: './intro/blvckzerhh.mp4',
+      coverSrc: './images/blvckzerhh.mp4',
       name: 'Naranga Paal',
       desc: 'blvckzehhh',
       id: 0,
