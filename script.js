@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
     },
     {
       audioSrc: 
-        './tracks/heyyuhh.mp3',
+        './tracks/heyy.mp3',
       coverSrc: './images/about.png',
       name: 'Sajde-official music',
       desc: 'blvckzehhh',
